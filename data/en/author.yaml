@@ -1,20 +1,20 @@
 # some information about you
-name: "John Doe"
-nickname: "John"
+name: "QuestInLanka"
+nickname: "QuestInLanka"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
-image: "images/author/john.png"
+greeting: ""
+image: "images/author/logo-white.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "johndoe@example.com"
-  phone: "+0123456789"
-  github: johndoe
-  linkedin: johndoe
+  email: "syclops.info@gmail.com"
+  phone: "+94 712 549 304"
+  github: 53ctf
+  # linkedin: johndoe
 
 # some summary about what you do
 summary:
-  - I am a Developer
-  - I am a Devops
-  - I love servers
-  - I work on open-source projects
-  - I love to work with some fun projects
+  - Experience Sri Lanka like never before with Questinlanka
+  - Let us be your guide to the wonders of Sri Lanka
+  - Discover the hidden gems of Sri Lanka with our expert team
+  - Your journey to Sri Lanka starts with Questinlanka
+  - Unleash your inner adventurer with Questinlanka's bespoke tours
