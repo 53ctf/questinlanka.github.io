@@ -1,8 +1,8 @@
 # section information
 section:
-  name: Recent Posts
+  name: Tour Packages
   id: recent-posts
-  enable: false
+  enable: true
   weight: 7
   showOnNavbar: true
   # Can optionally hide the title in sections
