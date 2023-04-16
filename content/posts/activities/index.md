@@ -6,7 +6,7 @@ menu:
   sidebar:
     name: Activities
     identifier: activities
-    weight: 1
+    weight: 4
 author:
   name: Dinuka Nuwan
 #   image: /images/author/jessica.png
