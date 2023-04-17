@@ -11,113 +11,77 @@ section:
 # Your achievements achievements
 achievements:
 - title: Best Presenter
-  image: /images/gallary/agnieszka-kowalczyk-bkfBxbI7a1g-unsplash.jpg
+  image: /images/gallary/2.png
   summary: Best presenter in the 2020 XYZ conference.
 
 - title: Best Presenter
-  image: /images/gallary/anton-lecock-_Oph5eQ7oqk-unsplash.jpg
+  image: /images/gallary/3.png
   summary: Best presenter in the 2020 XYZ conference.
 
 - title: Best Presenter
-  image: /images/gallary/avin-cp-3HTmI6zjocU-unsplash.jpg
+  image: /images/gallary/4.png
   summary: Best presenter in the 2020 XYZ conference.
 
 - title: Best Presenter
-  image: /images/gallary/chathura-anuradha-subasinghe-9xxVQd9RBL4-unsplash.jpg
+  image: /images/gallary/5.png
   summary: Best presenter in the 2020 XYZ conference.
 
 - title: Best Presenter
-  image: /images/gallary/daniele-franchi-nhzzN8HIT0s-unsplash.jpg
+  image: /images/gallary/6.png
   summary: Best presenter in the 2020 XYZ conference.
 
 - title: Best Presenter
-  image: /images/gallary/daniele-franchi-zOZUrhMw2ZQ-unsplash.jpg
+  image: /images/gallary/7.png
+  summary: Best presenter in the 2020 XYZ conference.
+
+# - title: Best Presenter
+#   image: /images/gallary/8.png
+#   summary: Best presenter in the 2020 XYZ conference.
+
+# - title: Best Presenter
+#   image: /images/gallary/9.png
+#   summary: Best presenter in the 2020 XYZ conference.
+
+# - title: Best Presenter
+#   image: /images/gallary/10.png
+#   summary: Best presenter in the 2020 XYZ conference.
+
+- title: Best Presenter
+  image: /images/gallary/12.png
   summary: Best presenter in the 2020 XYZ conference.
 
 - title: Best Presenter
-  image: /images/gallary/dinuka-lankaloka-iduEaeBB_rQ-unsplash.jpg
+  image: /images/gallary/13.png
   summary: Best presenter in the 2020 XYZ conference.
 
 - title: Best Presenter
-  image: /images/gallary/eddy-billard-d6EuGZs41SI-unsplash.jpg
+  image: /images/gallary/14.png
   summary: Best presenter in the 2020 XYZ conference.
 
 - title: Best Presenter
-  image: /images/gallary/florian-wehde-btc7lo_Er4Y-unsplash.jpg
+  image: /images/gallary/15.png
   summary: Best presenter in the 2020 XYZ conference.
 
 - title: Best Presenter
-  image: /images/gallary/gurth-bramall-htI-00HmFXQ-unsplash.jpg
+  image: /images/gallary/17.png
   summary: Best presenter in the 2020 XYZ conference.
 
 - title: Best Presenter
-  image: /images/gallary/hendrik-cornelissen-jpTT_SAU034-unsplash.jpg
+  image: /images/gallary/18.png
   summary: Best presenter in the 2020 XYZ conference.
 
 - title: Best Presenter
-  image: /images/gallary/hendrik-cornelissen-lTC-4cz8whA-unsplash.jpg
+  image: /images/gallary/19.png
   summary: Best presenter in the 2020 XYZ conference.
 
 - title: Best Presenter
-  image: /images/gallary/izuru-kannagara-UeSfcl4xreE-unsplash.jpg
+  image: /images/gallary/20.png
   summary: Best presenter in the 2020 XYZ conference.
 
 - title: Best Presenter
-  image: /images/gallary/jannes-jacobs-8x3mdrB3x5A-unsplash.jpg
+  image: /images/gallary/beach 01.png
   summary: Best presenter in the 2020 XYZ conference.
 
 - title: Best Presenter
-  image: /images/gallary/lucija-ros-VC7P8p6dFIc-unsplash.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-
-- title: Best Presenter
-  image: /images/gallary/nilantha-sanjeewa-EXHIHvJu4VU-unsplash.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-
-- title: Best Presenter
-  image: /images/gallary/oleg-illarionov-q9q8bi0Aw7o-unsplash.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-
-- title: Best Presenter
-  image: /images/gallary/oliver-sjostrom-gofDws5Y_CU-unsplash.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-
-- title: Best Presenter
-  image: /images/gallary/promodhya-abeysekara-gjd-7_3Ek_w-unsplash.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-
-- title: Best Presenter
-  image: /images/gallary/promodhya-abeysekara-rdrGpquZ1Hc-unsplash.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-
-- title: Best Presenter
-  image: /images/gallary/ramith-bhasuka-jcoO6i1oDnQ-unsplash.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-
-- title: Best Presenter
-  image: /images/gallary/shainee-fernando-drGdvwyhmoc-unsplash.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-
-- title: Best Presenter
-  image: /images/gallary/stefano-alemani-f9KQYJR7fXk-unsplash.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-
-- title: Best Presenter
-  image: /images/gallary/sukanya-basu-7j6D4ml18a0-unsplash.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-
-- title: Best Presenter
-  image: /images/gallary/udara-karunarathna-d8Lw4p8MVOg-unsplash.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-
-- title: Best Presenter
-  image: /images/gallary/udara-karunarathna-MXY2UUe1C4g-unsplash.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-
-- title: Best Presenter
-  image: /images/gallary/vlada-x5Ltr_cAKis-unsplash.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-
-- title: Best Presenter
-  image: /images/gallary/yves-alarie-yaGheETUSK4-unsplash.jpg
+  image: /images/gallary/monkey.png
   summary: Best presenter in the 2020 XYZ conference.
