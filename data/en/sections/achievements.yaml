@@ -10,78 +10,150 @@ section:
 
 # Your achievements achievements
 achievements:
-# - title: Best Presenter
-#   image: /images/gallary/2.png
-#   summary: Best presenter in the 2020 XYZ conference.
+- title: Best Presenter
+  image: /images/gallary/gallery_image(1).jpg
+  summary: Best presenter in the 2020 XYZ conference.
 
-# - title: Best Presenter
-#   image: /images/gallary/3.png
-#   summary: Best presenter in the 2020 XYZ conference.
+- title: Best Presenter
+  image: /images/gallary/gallery_image(2).jpg
+  summary: Best presenter in the 2020 XYZ conference.
 
-# - title: Best Presenter
-#   image: /images/gallary/4.png
-#   summary: Best presenter in the 2020 XYZ conference.
+- title: Best Presenter
+  image: /images/gallary/gallery_image(3).jpg
+  summary: Best presenter in the 2020 XYZ conference.
 
-# - title: Best Presenter
-#   image: /images/gallary/5.png
-#   summary: Best presenter in the 2020 XYZ conference.
+- title: Best Presenter
+  image: /images/gallary/gallery_image(4).jpg
+  summary: Best presenter in the 2020 XYZ conference.
 
-# - title: Best Presenter
-#   image: /images/gallary/6.png
-#   summary: Best presenter in the 2020 XYZ conference.
+- title: Best Presenter
+  image: /images/gallary/gallery_image(5).jpg
+  summary: Best presenter in the 2020 XYZ conference.
 
-# - title: Best Presenter
-#   image: /images/gallary/7.png
-#   summary: Best presenter in the 2020 XYZ conference.
+- title: Best Presenter
+  image: /images/gallary/gallery_image(6).jpg
+  summary: Best presenter in the 2020 XYZ conference.
 
-# - title: Best Presenter
-#   image: /images/gallary/8.png
-#   summary: Best presenter in the 2020 XYZ conference.
+- title: Best Presenter
+  image: /images/gallary/gallery_image(7).jpg
+  summary: Best presenter in the 2020 XYZ conference.
 
-# - title: Best Presenter
-#   image: /images/gallary/9.png
-#   summary: Best presenter in the 2020 XYZ conference.
+- title: Best Presenter
+  image: /images/gallary/gallery_image(8).jpg
+  summary: Best presenter in the 2020 XYZ conference.
 
-# - title: Best Presenter
-#   image: /images/gallary/10.png
-#   summary: Best presenter in the 2020 XYZ conference.
+- title: Best Presenter
+  image: /images/gallary/gallery_image(9).jpg
+  summary: Best presenter in the 2020 XYZ conference.
 
-# - title: Best Presenter
-#   image: /images/gallary/12.png
-#   summary: Best presenter in the 2020 XYZ conference.
+- title: Best Presenter
+  image: /images/gallary/gallery_image(10).jpg
+  summary: Best presenter in the 2020 XYZ conference.
 
-# - title: Best Presenter
-#   image: /images/gallary/13.png
-#   summary: Best presenter in the 2020 XYZ conference.
+- title: Best Presenter
+  image: /images/gallary/gallery_image(11).jpg
+  summary: Best presenter in the 2020 XYZ conference.
 
-# - title: Best Presenter
-#   image: /images/gallary/14.png
-#   summary: Best presenter in the 2020 XYZ conference.
+- title: Best Presenter
+  image: /images/gallary/gallery_image(12).jpg
+  summary: Best presenter in the 2020 XYZ conference.
 
-# - title: Best Presenter
-#   image: /images/gallary/15.png
-#   summary: Best presenter in the 2020 XYZ conference.
+- title: Best Presenter
+  image: /images/gallary/gallery_image(13).jpg
+  summary: Best presenter in the 2020 XYZ conference.
 
-# - title: Best Presenter
-#   image: /images/gallary/17.png
-#   summary: Best presenter in the 2020 XYZ conference.
+- title: Best Presenter
+  image: /images/gallary/gallery_image(14).jpg
+  summary: Best presenter in the 2020 XYZ conference.
 
-# - title: Best Presenter
-#   image: /images/gallary/18.png
-#   summary: Best presenter in the 2020 XYZ conference.
+- title: Best Presenter
+  image: /images/gallary/gallery_image(15).jpg
+  summary: Best presenter in the 2020 XYZ conference.
 
-# - title: Best Presenter
-#   image: /images/gallary/19.png
-#   summary: Best presenter in the 2020 XYZ conference.
+- title: Best Presenter
+  image: /images/gallary/gallery_image(16).jpg
+  summary: Best presenter in the 2020 XYZ conference.
 
-# - title: Best Presenter
-#   image: /images/gallary/20.png
-#   summary: Best presenter in the 2020 XYZ conference.
+- title: Best Presenter
+  image: /images/gallary/gallery_image(17).jpg
+  summary: Best presenter in the 2020 XYZ conference.
 
-# - title: Best Presenter
-#   image: /images/gallary/beach 01.png
-#   summary: Best presenter in the 2020 XYZ conference.
+- title: Best Presenter
+  image: /images/gallary/gallery_image(18).jpg
+  summary: Best presenter in the 2020 XYZ conference.
 
-# - title: Best Presenter
-#   image: /images/gallary/monkey.png
-#   summary: Best presenter in the 2020 XYZ conference.
+- title: Best Presenter
+  image: /images/gallary/gallery_image(19).jpg
+  summary: Best presenter in the 2020 XYZ conference.
+
+- title: Best Presenter
+  image: /images/gallary/gallery_image(20).jpg
+  summary: Best presenter in the 2020 XYZ conference.
+
+- title: Best Presenter
+  image: /images/gallary/gallery_image(21).jpg
+  summary: Best presenter in the 2020 XYZ conference.
+
+- title: Best Presenter
+  image: /images/gallary/gallery_image(22).jpg
+  summary: Best presenter in the 2020 XYZ conference.
+
+- title: Best Presenter
+  image: /images/gallary/gallery_image(23).jpg
+  summary: Best presenter in the 2020 XYZ conference.
+
+- title: Best Presenter
+  image: /images/gallary/gallery_image(24).jpg
+  summary: Best presenter in the 2020 XYZ conference.
+
+- title: Best Presenter
+  image: /images/gallary/gallery_image(25).jpg
+  summary: Best presenter in the 2020 XYZ conference.
+
+- title: Best Presenter
+  image: /images/gallary/gallery_image(26).jpg
+  summary: Best presenter in the 2020 XYZ conference.
+
+- title: Best Presenter
+  image: /images/gallary/gallery_image(27).jpg
+  summary: Best presenter in the 2020 XYZ conference.
+
+- title: Best Presenter
+  image: /images/gallary/gallery_image(28).jpg
+  summary: Best presenter in the 2020 XYZ conference.
+
+- title: Best Presenter
+  image: /images/gallary/gallery_image(29).jpg
+  summary: Best presenter in the 2020 XYZ conference.
+
+- title: Best Presenter
+  image: /images/gallary/gallery_image(30).jpg
+  summary: Best presenter in the 2020 XYZ conference.
+
+- title: Best Presenter
+  image: /images/gallary/gallery_image(31).jpg
+  summary: Best presenter in the 2020 XYZ conference.
+
+- title: Best Presenter
+  image: /images/gallary/gallery_image(32).jpg
+  summary: Best presenter in the 2020 XYZ conference.
+
+- title: Best Presenter
+  image: /images/gallary/gallery_image(33).jpg
+  summary: Best presenter in the 2020 XYZ conference.
+
+- title: Best Presenter
+  image: /images/gallary/gallery_image(34).jpg
+  summary: Best presenter in the 2020 XYZ conference.
+
+- title: Best Presenter
+  image: /images/gallary/gallery_image(35).jpg
+  summary: Best presenter in the 2020 XYZ conference.
+
+- title: Best Presenter
+  image: /images/gallary/gallery_image(36).jpg
+  summary: Best presenter in the 2020 XYZ conference.
+
+- title: Best Presenter
+  image: /images/gallary/gallery_image(37).jpg
+  summary: Best presenter in the 2020 XYZ conference.
