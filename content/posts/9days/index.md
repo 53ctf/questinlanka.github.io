@@ -14,6 +14,8 @@ author:
 math: false
 ---
 
+<style>.images {text-align: center;}</style>
+
 Welcome to QuestinLanka’s 9-Day Tour Package! Get ready to experience the best of Sri Lanka’s culture, history, and nature.
 
 Day 1: Arrival in Colombo Upon arrival at the airport, our representative will greet you and transfer you to your hotel in Colombo. You can relax and explore the city on your own.
@@ -29,5 +31,8 @@ Day 6-7: Kandy and Tea Country Visit the picturesque city of Kandy, home to the 
 Day 8: Horton Plains and Ella Explore the stunning Horton Plains National Park, known for its scenic hiking trails and stunning views. Later, visit the charming town of Ella and hike to the famous Nine Arch Bridge.
 
 Day 9: Bentota and Departure Visit the tranquil beach town of Bentota and enjoy some water sports and relaxation by the beach. Later, transfer to the airport for your departure flight.
+
+<div class="images"><img src='https://cdn.erlebe.de/wp-content/uploads/sites/46/2022/12/kandy-zahntempel-elefant.jpg'></img></div>
+<div class="images"><img src='https://cdn.erlebe.de/wp-content/uploads/sites/46/2022/12/kandy-zahntempel-elefant.jpg'></img></div>
 
 Join us on this 9-day adventure and experience the best of Sri Lanka!
