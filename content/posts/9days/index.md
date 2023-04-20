@@ -2,7 +2,7 @@
 title: "9 Days Package"
 date: 2023-04-16
 description: Various Activities that You can Experience in Sri Lanka
-hero: /images/site/background.jpg
+hero: /images/site/wildlife.jpg
 menu:
   sidebar:
     name: 9 Days Package

@@ -2,7 +2,7 @@
 title: "11 Days Package"
 date: 2023-04-16
 description: Various Activities that You can Experience in Sri Lanka
-hero: /images/site/background.jpg
+hero: /images/site/culture.jpg
 menu:
   sidebar:
     name: 11 Days Package
@@ -10,7 +10,7 @@ menu:
     weight: 2
 author:
   name: Dinuka Nuwan
-#   image: /images/author/jessica.png
+#   image: /images/site/sigiriya.jpg
 math: false
 ---
 
