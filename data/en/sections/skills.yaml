@@ -2,7 +2,7 @@
 section:
   name: Activities
   id: skills
-  enable: true
+  enable: false
   weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
@@ -23,7 +23,7 @@ skills:
 
 - name: Beaches
   # logo: /images/sections/skills/kubernetes.png
-  summary: "Sri Lanka is home to some of the most stunning beaches in the world, with crystal-clear waters, pristine white sands, and breathtaking views. Whether you’re looking to soak up the sun, indulge in water sports, or simply relax and unwind, Sri Lanka has a beach that’s perfect for you.."
+  summary: "Sri Lanka is home to some of the most stunning beaches in the world, with crystal-clear waters, pristine white sands, and breathtaking views. Whether you’re looking to soak up the sun, indulge in water sports, or simply relax and unwind, Sri Lanka has a beach that’s perfect for you."
   url: "http://localhost:1313/posts/activities/#beaches"
 
 - name: Tea Plantations
