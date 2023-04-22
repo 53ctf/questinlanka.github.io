@@ -24,10 +24,6 @@ languages:
     contentDir: content/
     languageName: English
     weight: 1
-  bn:
-    contentDir: content/
-    languageName: বাংলা
-    weight: 2
 
 disableLanguages:
 - bn

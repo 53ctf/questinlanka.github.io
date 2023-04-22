@@ -11,10 +11,11 @@ section:
 # Your experiences
 experiences:
 - company:
-    overview:
+    overview: 
     # overview: '<style>.img-container {text-align: center;}</style><a href="/posts/"><div class="img-container"><img src="https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8&w=1000&q=80" width="400" height="300" style="verticle-align:middle"></img></div></a>'
   positions:
   - designation: Pick a Package
+    end: Browse your tour packages & select one
     responsibilities:
     # - Write lots of example codes.
 
@@ -22,6 +23,7 @@ experiences:
     overview: 
   positions:
   - designation: Contact Us
+    end: Get in touch for questions or special requests
     responsibilities:
     # - Write lots of example codes.
 
@@ -29,6 +31,7 @@ experiences:
     overview: 
   positions:
   - designation: Customize Your Package
+    end: Personalize the package to your preferences
     responsibilities:
     # - Write lots of example codes.
 
@@ -36,6 +39,7 @@ experiences:
     overview: 
   positions:
   - designation: Booking Confirmation
+    end: Receive confirmation with tour details
     responsibilities:
     # - Write lots of example codes.
 
@@ -43,5 +47,6 @@ experiences:
     overview: 
   positions:
   - designation: Tour & Feedback
+    end: Enjoy the tour and provide feedback afterward
     responsibilities:
     # - Write lots of example codes.
