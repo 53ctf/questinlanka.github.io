@@ -172,18 +172,18 @@ params:
 
     # Enable Support
     support:
-      enable: false
+      enable: true
       services:
-        kofi:
-          user: hossainemruz
-          text: Tip Me
-          textColor: '#f9fafc'
-          backgroundColor: '#248aaa'
-        # buymeacoffee:
-        #   user: <your buymeacoffee.com user>
-        #   text: Support me on Buy me a coffee!
-        #   info: Buy me a coffee!
-        #   color: '#FFDD00'
+        # kofi:
+        #   user: hossainemruz
+        #   text: Tip Me
+        #   textColor: '#f9fafc'
+        #   backgroundColor: '#248aaa'
+        buymeacoffee:
+          user: syclops
+          text: Wanna make a contribution?
+          info: You also can buy me a slice of pizza though
+          color: '#1C2D41'
 
     # specify whether you want to show Table of Contents in reading page
     toc:
