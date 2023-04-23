@@ -1,11 +1,11 @@
 ---
-title: "15 Days Package"
+title: "15-Days Classic Package"
 date: 2023-04-16
 description: Various Activities that You can Experience in Sri Lanka
 hero: /images/site/15_days.jpg
 menu:
   sidebar:
-    name: 15 Days Package
+    name: 15-Days Classic Package
     identifier: 15DaysPackage
     weight: 3
 author:
@@ -14,82 +14,101 @@ author:
 math: false
 ---
 
-**Welcome to QuestinLanka's 15-Day Tour Package! Get ready for an unforgettable journey through the diverse landscapes, rich history, and vibrant culture of Sri Lanka.**
-
-#####  Day 1: Colombo
-
-- Arrival in Colombo Upon arrival in Colombo, our representative will greet you at the airport and transfer you to your hotel. You'll have some time to rest and relax before starting your adventure. 
-
-#####  Day 2-3-4: Colombo to Dambulla
-
-- Sigiriya Rock Fortress
-- Pidurangala Rock
-- Polonnaruwa ancient city
-- Ancient city of Anuradhapu
-- Minneriya National Park
-- Village Tours
-- Bicycle tour 
+**Great! Here's a more detailed itinerary for your 15-day classic tour package that includes lovely dinners, beach functions, whale watching, safari, village tours, and boat riding.**
 
 
-#####  Day 5-6: Dambulla to Kandy
 
-- Explore the Golden Temple in Dambulla
-- Matale Temple
-- Temple of the Tooth
-- Peradiniya botanical Garden
-- Kandy View point
-- Kandy Lake
-- Bahirawakanda Temple 
+##### Day 1: Arrival in Colombo
+
+- Private airport transfer to the hotel
+- Welcome dinner at a local restaurant
+- Nightlife exploration
 
 
-#####  Day 7-8: Kandy to Nuwara Eliya
+##### Day 2: Negombo City Tour
 
-- Visit a tea plantations & Tea factory
-- Gregory Lake
-- Hakgala Botanical Garden
-- Victoria Park
-- Experience the local culture 
+- Visit the Fish Market
+- Boat tour in Muthurajawela Lagoon
+- Beach party with live music
 
 
-#####  Day -9: Nuwaraeliya to Ella
+##### Day 3: Anuradhapura Tour
 
-- The train journey
-- Little Adam speak
-- Nine arch Bridge
-- Ravana waterfall
-- Flying Ravana Mega Zip Line 
+- Visit ancient temples and ruins in Anuradhapura
+- Traditional Sri Lankan dinner with a local family
 
 
-#####  Day 10: Ella to Yala
+##### Day 4: Polonnaruwa and Sigiriya Tour
 
-- Wildlife Safari
-- Camping
-- Birdwatching
-- Nature walks 
-
-
-#####  Day 11-12: Yala to Mirissa
-
-- Whale watching
-- Surfing and Water Sports
-- Beaches
-- Yoga and Spa 
+- Visit the ancient city of Polonnaruwa
+- Climb Sigiriya Rock Fortress
+- Village tour in Habarana
+- Traditional Sri Lankan dinner with a local family
 
 
-#####  Day 13-14: Galle to Colombo
+##### Day 5: Kandy City Tour
+
+- Visit Temple of Tooth Relic
+- Watch a cultural dance performance
+- Kandy city tour
+- Dinner at a rooftop restaurant
+
+
+##### Day 6: Nuwara Eliya City Tour
+
+- Visit a tea plantation and factory
+- Visit Horton Plains National Park
+- Gregory Lake boat ride
+- Romantic dinner at the hotel
+
+
+##### Day 7: Ella City Tour
+
+- Visit Little Adam's Peak
+- Visit Nine Arches Bridge
+- Scenic train ride through the mountains
+- Dinner at a local restaurant
+
+
+##### Day 8: Yala Safari
+
+- Safari in Yala National Park
+- Beach party with live music
+
+
+##### Day 9: Mirissa Beach Tour
+
+- Whale watching tour
+- Beach activities
+- Dinner at a beachfront restaurant
+
+
+##### Day 10: Galle City Tour
 
 - Visit Galle Fort
-- Explore the Old Town
-- Visit the beaches
-- Visit temples and shrines
-- Explore the Gangaramaya Temple
-- Shop at the Pettah Market
-- Walk along Galle Face Green 
+- Visit Jungle Beach
+- Traditional Sri Lankan dinner with a local family
 
 
-#####  Day 15: Negombo to Airport
+##### Day 11-12: Bentota Beach Tour
 
-- Negombo sightseeing
+- Water sports activities
+- Boat ride in Bentota River
+- Beach party with live music
 
 
-**Join us on this 15-day adventure and experience the best of Sri Lanka!**
+##### Day 13-14: Colombo City Tour
+
+- Visit Gangaramaya Temple
+- Visit Independence Square
+- Visit Galle Face Green
+- Visit Colombo National Museum
+- Dinner at a local restaurant
+
+
+##### Day 15: Departure
+
+- Transfer to the airport
+
+
+Make sure to emphasize the classic aspect of the tour package and provide options for guests to enjoy local cuisine and culture. You can also customize the itinerary based on your guests' preferences. Good luck with your tour package!

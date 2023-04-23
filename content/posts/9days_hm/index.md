@@ -1,11 +1,11 @@
 ---
-title: "9 Days Honeymoon Special Package"
+title: "9-Days Honeymoon Special Package"
 date: 2023-04-16
 description: Various Activities that You can Experience in Sri Lanka
 hero: /images/site/culture.jpg
 menu:
   sidebar:
-    name: 9 Days Honeymoon Special Package
+    name: 9-Days Honeymoon Special Package
     identifier: 9DaysHMPackage
     weight: 2
 author:

@@ -1,11 +1,11 @@
 ---
-title: "$100 - 9 Days Package"
+title: "9-Days Package"
 date: 2023-04-20
 description: Various Activities that You can Experience in Sri Lanka
 hero: /images/site/wildlife.jpg
 menu:
   sidebar:
-    name: 9 Days Package
+    name: 9-Days Package
     identifier: 9DaysPackage
     weight: 1
 author:
