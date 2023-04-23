@@ -1,11 +1,11 @@
 ---
-title: "11 Days Package"
+title: "11-Days Adventure Package"
 date: 2023-04-16
 description: Various Activities that You can Experience in Sri Lanka
 hero: /images/site/culture.jpg
 menu:
   sidebar:
-    name: 11 Days Package
+    name: 11-Days Adventure Package
     identifier: 11DaysPackage
     weight: 2
 author:
@@ -14,28 +14,74 @@ author:
 math: false
 ---
 
-Welcome to QuestinLanka’s 11-Day Tour Package! Get ready to experience the best of Sri Lanka with our carefully curated itinerary.
+**Great! Here's a more detailed itinerary for your 11-day adventure tour package that includes lovely dinners, beach functions, whale watching, safari, village tours, and boat riding.**
 
-Day 1: Arrival in Colombo Upon arrival in Colombo, our representative will greet you at the airport and transfer you to your hotel. You’ll have some time to rest and relax before starting your adventure.
 
-Day 2: Colombo City Tour Explore the bustling city of Colombo, from its historical landmarks to its vibrant markets. Visit the famous Gangaramaya Temple, Independence Square, and the Colombo Fort. You’ll also have the chance to indulge in some shopping and taste the local street food.
+##### Day 1: Arrival in Colombo
 
-Day 3: Dambulla and Sigiriya Drive to Dambulla and explore the impressive Dambulla Cave Temple, a UNESCO World Heritage site. Then, head to the iconic Sigiriya rock fortress and climb to the top for a stunning view of the surrounding countryside.
+- Private airport transfer to the hotel
+- Welcome dinner at a local restaurant
+- Nightlife exploration
 
-Day 4: Jeep Safari in Minneriya National Park Embark on an exciting jeep safari in Minneriya National Park, known for its large herds of wild elephants. You’ll also have the chance to spot other wildlife such as deer, crocodiles, and various bird species.
+##### Day 2: Negombo City Tour
 
-Day 5: Kandy City Tour Visit the picturesque city of Kandy, home to the famous Temple of the Tooth Relic. Explore the temple and learn about its rich history and cultural significance. Later, take a stroll around Kandy Lake and visit the Royal Botanical Gardens.
+- Visit the Fish Market
+- Boat tour in Muthurajawela Lagoon
+- Beach party with live music
 
-Day 6: Tea Plantation Tour Visit the scenic hill country and explore the lush tea plantations of Nuwara Eliya. Learn about the tea-making process and taste some of the world-famous Ceylon tea.
+##### Day 3: Dambulla and Sigiriya Tour
 
-Day 7: Train Ride to Ella Hop on a train and enjoy the breathtaking views of the Sri Lankan countryside on your way to Ella. Explore the charming town and visit the famous Nine Arch Bridge.
+- Climb Sigiriya Rock Fortress
+- Visit Dambulla Cave Temple
+- Village tour in Habarana
+- Traditional Sri Lankan dinner with a local family
 
-Day 8: Yala National Park Safari Embark on a thrilling safari in Yala National Park, known for its large population of leopards. You’ll also have the chance to spot other wildlife such as elephants, sloth bears, and various bird species.
+##### Day 4: Kandy City Tour
 
-Day 9: Galle Fort and Unawatuna Beach Explore the historic Galle Fort, a UNESCO World Heritage site, and stroll along the picturesque streets lined with colonial-era buildings. Later, head to Unawatuna Beach for some sun, sand, and surf.
+- Visit Temple of Tooth Relic
+- Watch a cultural dance performance
+- Kandy city tour
+- Dinner at a rooftop restaurant
 
-Day 10: Mirissa Whale Watching Embark on a thrilling whale watching excursion in Mirissa and witness these majestic creatures in their natural habitat.
+##### Day 5: Nuwara Eliya City Tour
 
-Day 11: Departure Transfer to the airport for your departure flight.
+- Visit a tea plantation and factory
+- Visit Horton Plains National Park
+- Gregory Lake boat ride
+- Romantic dinner at the hotel
 
-Join us on this 11-day adventure and experience the best of Sri Lanka!
+##### Day 6: Ella City Tour
+
+- Visit Little Adam's Peak
+- Visit Nine Arches Bridge
+- Scenic train ride through the mountains
+- Dinner at a local restaurant
+
+##### Day 7: Yala Safari
+
+- Safari in Yala National Park
+- Beach party with live music
+
+##### Day 8: Mirissa Beach Tour
+
+- Whale watching tour
+- Beach activities
+- Dinner at a beachfront restaurant
+
+##### Day 9: Galle City Tour
+
+- Visit Galle Fort
+- Visit Jungle Beach
+- Traditional Sri Lankan dinner with a local family
+
+##### Day 10: Bentota Beach Tour
+
+- Water sports activities
+- Boat ride in Bentota River
+- Beach party with live music
+
+##### Day 11: Departure
+
+- Transfer to the airport
+
+Make sure to emphasize the adventure aspect of the tour package and provide options for guests to enjoy local cuisine and culture. You can also customize the itinerary based on your guests' preferences. Good luck with your tour package!
