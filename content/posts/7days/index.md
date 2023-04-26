@@ -1,8 +1,8 @@
 ---
 title: "7-Days Package"
-date: 2023-04-20
+date: 2023-04-12
 description: Various Activities that You can Experience in Sri Lanka
-hero: /images/site/wildlife.jpg
+hero: /images/site/24.jpg
 menu:
   sidebar:
     name: 7-Days Package

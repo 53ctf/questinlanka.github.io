@@ -1,8 +1,8 @@
 ---
 title: "15-Days Classic Package"
-date: 2023-04-16
+date: 2023-04-10
 description: Various Activities that You can Experience in Sri Lanka
-hero: /images/site/15_days.jpg
+hero: /images/site/25.jpg
 menu:
   sidebar:
     name: 15-Days Classic Package
