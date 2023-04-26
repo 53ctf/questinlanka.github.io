@@ -16,23 +16,71 @@ math: false
 
 <style>.images {text-align: center;}</style>
 
-Welcome to QuestinLanka’s 9-Day Tour Package! Get ready to experience the best of Sri Lanka’s culture, history, and nature.
+**Great! Creating a 9-day family tour package that includes ancient cities, wildlife activities, safari, whale watching, and beaches sounds like an exciting adventure for travelers visiting Sri Lanka. Here's a possible itinerary for your tour package.**
 
-Day 1: Arrival in Colombo Upon arrival at the airport, our representative will greet you and transfer you to your hotel in Colombo. You can relax and explore the city on your own.
 
-Day 2: Colombo City Tour Explore the city of Colombo, from its historical landmarks to its bustling markets. Visit the Gangaramaya Temple, Independence Square, and the Colombo Fort. You’ll also have the chance to indulge in some shopping and taste the local street food.
 
-Day 3-4: Cultural Triangle Drive to the Cultural Triangle, a region rich in ancient history and culture. Visit the iconic Sigiriya rock fortress, Dambulla Cave Temple, and the ancient city of Polonnaruwa, a UNESCO World Heritage site.
+##### Day 1: Arrival and Colombo City Tour
 
-Day 5: Jeep Safari in Minneriya National Park Embark on an exciting jeep safari in Minneriya National Park, known for its large herds of wild elephants. You’ll also have the chance to spot other wildlife such as deer, crocodiles, and various bird species.
+- Arrive at Bandaranaike International Airport in Colombo
+- Meet and greet with your guide
+- Check-in to your hotel and relax for a while
+- In the afternoon, take a city tour of Colombo, including the Galle Face Green, Independence Square, and the Gangaramaya Temple
 
-Day 6-7: Kandy and Tea Country Visit the picturesque city of Kandy, home to the famous Temple of the Tooth Relic. Explore the temple and learn about its rich history and cultural significance. Later, take a scenic train ride to the lush tea plantations of Nuwara Eliya and learn about the tea-making process.
 
-Day 8: Horton Plains and Ella Explore the stunning Horton Plains National Park, known for its scenic hiking trails and stunning views. Later, visit the charming town of Ella and hike to the famous Nine Arch Bridge.
+##### Day 2: Anuradhapura Ancient City Tour
 
-Day 9: Bentota and Departure Visit the tranquil beach town of Bentota and enjoy some water sports and relaxation by the beach. Later, transfer to the airport for your departure flight.
+- After breakfast, depart to Anuradhapura, one of the ancient cities of Sri Lanka
+- Visit the sacred Sri Maha Bodhi tree, the Ruwanwelisaya stupa, and other ancient temples and monuments
+- Return to your hotel in the evening
 
-<div class="images"><img src='https://cdn.erlebe.de/wp-content/uploads/sites/46/2022/12/kandy-zahntempel-elefant.jpg'></img></div>
-<div class="images"><img src='https://cdn.erlebe.de/wp-content/uploads/sites/46/2022/12/kandy-zahntempel-elefant.jpg'></img></div>
 
-Join us on this 9-day adventure and experience the best of Sri Lanka!
+##### Day 3: Polonnaruwa Ancient City Tour
+
+- After breakfast, head to Polonnaruwa, another ancient city of Sri Lanka
+- Visit the Royal Palace, Gal Vihara, and other ancient monuments
+- In the evening, return to your hotel and relax
+
+
+##### Day 4: Minneriya National Park Safari
+
+- After breakfast, depart to Minneriya National Park
+- Go on a jeep safari to see elephants and other wildlife
+- Return to your hotel in the evening
+
+
+##### Day 5: Sigiriya and Dambulla Cave Temple
+
+- After breakfast, visit the Sigiriya rock fortress, one of the most iconic landmarks of Sri Lanka
+- Climb to the top for a breathtaking view of the surrounding area
+- In the afternoon, visit the Dambulla Cave Temple, a UNESCO World Heritage site
+- Return to your hotel in the evening
+
+
+##### Day 6: Whale Watching in Mirissa
+
+- After breakfast, depart to Mirissa, a popular coastal town in Sri Lanka
+- Go on a whale watching tour in the Indian Ocean
+- Return to your hotel in the evening
+
+
+##### Day 7: Galle Fort and Beach
+
+- After breakfast, take a tour of the Galle Fort, another UNESCO World Heritage site
+- In the afternoon, enjoy some leisure time at the Unawatuna Beach
+- Return to your hotel in the evening
+
+
+##### Day 8: Bentota Beach and Water Sports
+
+- After breakfast, head to Bentota, a popular beach destination in Sri Lanka
+- Enjoy various water sports activities, including jet skiing, banana boat rides, and parasailing
+- Return to your hotel in the evening
+
+
+##### Day 9: Departure
+
+- After breakfast, check out from your hotel and depart to the airport for your flight back home
+
+
+That's it! You can modify this itinerary as per your preference and budget. Make sure to include all the necessary arrangements, such as transportation, accommodations, meals, and entrance fees, in your tour package. Good luck!
