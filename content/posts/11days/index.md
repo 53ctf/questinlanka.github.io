@@ -85,3 +85,19 @@ math: false
 - Transfer to the airport
 
 Make sure to emphasize the adventure aspect of the tour package and provide options for guests to enjoy local cuisine and culture. You can also customize the itinerary based on your guests' preferences. Good luck with your tour package!
+
+######  Includes:
+
+- English Speaking Chauffeur Drivers
+- Air-conditioned Private Tourist Vehicle
+- Special Guide service when required
+
+
+######  Excludes:
+
+- Lunch and Dinner
+- Activity charges
+- Sightseeing & entrance fee
+- Flights
+- Visa fees
+- Personal expenses

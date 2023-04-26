@@ -76,3 +76,20 @@ Join us on this romantic 9-day honeymoon tour package in Sri Lanka and make unfo
 
 
 Contact us at questinlanka@gmail.com to book your tour.
+
+
+######  Includes:
+
+- English Speaking Chauffeur Drivers
+- Air-conditioned Private Tourist Vehicle
+- Special Guide service when required
+
+
+######  Excludes:
+
+- Lunch and Dinner
+- Activity charges
+- Sightseeing & entrance fee
+- Flights
+- Visa fees
+- Personal expenses

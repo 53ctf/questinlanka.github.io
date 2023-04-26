@@ -84,3 +84,19 @@ math: false
 
 
 That's it! You can modify this itinerary as per your preference and budget. Make sure to include all the necessary arrangements, such as transportation, accommodations, meals, and entrance fees, in your tour package. Good luck!
+
+######  Includes:
+
+- English Speaking Chauffeur Drivers
+- Air-conditioned Private Tourist Vehicle
+- Special Guide service when required
+
+
+######  Excludes:
+
+- Lunch and Dinner
+- Activity charges
+- Sightseeing & entrance fee
+- Flights
+- Visa fees
+- Personal expenses
