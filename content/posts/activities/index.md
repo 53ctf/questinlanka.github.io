@@ -2,6 +2,7 @@
 title: "Activities"
 date: 2020-06-08T08:06:25+06:00
 description: Various Activities that You can Experience in Sri Lanka
+hero: /images/activities/siarhei-palishchuk-hgiby6qxvpc-unsplash.jpg
 menu:
   sidebar:
     name: Activities
