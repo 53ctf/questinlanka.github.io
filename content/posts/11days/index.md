@@ -2,12 +2,12 @@
 title: "11-Days Adventure Package"
 date: 2022-04-20
 description: Various Activities that You can Experience in Sri Lanka
-hero: /images/site/culture.jpg
-menu:
-  sidebar:
-    name: 11-Days Adventure Package
-    identifier: 11DaysPackage
-    weight: 2
+hero: /images/site/20230209_113137 (1).jpg
+# menu:
+#   sidebar:
+#     name: 11-Days Adventure Package
+#     identifier: 11DaysPackage
+#     weight: 4
 author:
   name: Dinuka Nuwan
 #   image: /images/site/sigiriya.jpg

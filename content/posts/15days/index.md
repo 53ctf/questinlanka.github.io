@@ -3,11 +3,11 @@ title: "15-Days Classic Package"
 date: 2023-04-10
 description: Various Activities that You can Experience in Sri Lanka
 hero: /images/site/25.jpg
-menu:
-  sidebar:
-    name: 15-Days Classic Package
-    identifier: 15DaysPackage
-    weight: 3
+# menu:
+#   sidebar:
+#     name: 15-Days Classic Package
+#     identifier: 15DaysPackage
+#     weight: 5
 author:
   name: Dinuka Nuwan
 #   image: /images/author/jessica.png

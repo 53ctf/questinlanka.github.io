@@ -2,12 +2,12 @@
 title: "9-Days Honeymoon Special Package"
 date: 2022-04-20
 description: Various Activities that You can Experience in Sri Lanka
-hero: /images/site/culture.jpg
-menu:
-  sidebar:
-    name: 9-Days Honeymoon Special Package
-    identifier: 9DaysHMPackage
-    weight: 2
+hero: /images/site/anas-mulia-TB4Fb9trsdI-unsplash.jpg
+# menu:
+#   sidebar:
+#     name: 9-Days Honeymoon Special Package
+#     identifier: 9DaysHMPackage
+#     weight: 3
 author:
   name: Dinuka Nuwan
 #   image: /images/site/sigiriya.jpg

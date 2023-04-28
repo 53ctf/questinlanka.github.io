@@ -3,11 +3,11 @@ title: "9-Days Package"
 date: 2023-04-11
 description: Various Activities that You can Experience in Sri Lanka
 hero: /images/site/26.jpg
-menu:
-  sidebar:
-    name: 9-Days Package
-    identifier: 9DaysPackage
-    weight: 1
+# menu:
+#   sidebar:
+#     name: 9-Days Package
+#     identifier: 9DaysPackage
+#     weight: 2
 author:
   name: Dinuka Nuwan
 #   image: /images/author/jessica.png
