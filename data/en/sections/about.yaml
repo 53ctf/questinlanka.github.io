@@ -24,12 +24,20 @@ summary: 'Welcome to Questinlanka, your go-to travel agency for a memorable jour
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
+- name: Whatsapp
+  icon: "fab fa-whatsapp"
+  url: "https://wa.me/+770822069"
+
 - name: Email
   icon: "fas fa-envelope"
-  url: "syclops.info@gmail.com"
+  url: "questinlanka@gmail.com"
 
 - name: Facebook
   icon: "fab fa-facebook"
+  url: "https://web.facebook.com/syclops101"
+
+- name: Instagram
+  icon: "fab fa-instagram"
   url: "https://web.facebook.com/syclops101"
 
 # You can put custom buttons to link your relevant resources.
@@ -42,10 +50,20 @@ socialLinks:
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-# - type: certification
-#   name: Certified Kubernetes Security Specialist
-#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-#   badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+- type: certification
+  name: Tripadvisor
+  url: "https://www.google.com"
+  badge: "https://www.freepnglogos.com/uploads/tripadvisor-logo-png/file-tripadvisor-logo-svg-wikipedia-3.png"
+
+- type: certification
+  name: Booking.com
+  url: "https://www.google.com"
+  badge: "https://cdn.icon-icons.com/icons2/2699/PNG/512/booking_logo_icon_169473.png"
+
+- type: certification
+  name: Expedia
+  url: "https://www.google.com"
+  badge: "https://seeklogo.com/images/E/expedia-logo-CE08C7D43E-seeklogo.com.png"
 
 # - type: soft-skill-indicator
 #   name: Leadership

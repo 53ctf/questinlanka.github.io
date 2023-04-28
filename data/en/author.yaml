@@ -8,7 +8,7 @@ image: "images/author/logo-white.png"
 contactInfo:
   email: "questinlanka@gmail.com"
   phone: "+94 770 822 069 / 770 591 435"
-  github: 53ctf
+  # github: 53ctf
   # linkedin: johndoe
 
 # some summary about what you do
