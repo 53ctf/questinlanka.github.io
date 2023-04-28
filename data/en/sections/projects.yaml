@@ -27,34 +27,34 @@ projects:
 - name: 7-Days Tour
   role: '2 Pax'
   timeline: "$645"
-  url: ""
+  url: "/posts/7days/"
   summary: <p style="color:#2098D1;text-align:center;">Here’s a more detailed itinerary for your 7-day luxury tour package.</p><img src='/images/site/24.jpg'></img>
   tags: ["7-Days"]
 
 - name: 9-Days Tour
   role: '2 Pax'
   timeline: "$828"
-  url: ""
+  url: "/posts/9days/"
   summary: <p style="color:#2098D1;text-align:center;">Here’s a possible itinerary for your tour package.</p><img src='/images/site/26.jpg'></img>
   tags: ["9-Days"]
 
-- name: 9-Days Honemoon Tour
+- name: 9-Days Honeymoon Tour
   role: '2 Pax'
   timeline: "$910"
-  url: ""
+  url: "/posts/9days_hm/"
   summary: <p style="color:#2098D1;text-align:center;">Congratulations on your upcoming honeymoon!</p><img src='/images/site/anas-mulia-TB4Fb9trsdI-unsplash.jpg'></img>
   tags: ["9-Days"]
 
 - name: 11-Days
   role: '2-6 Pax'
   timeline: "$1015"
-  url: ""
+  url: "/posts/11days/"
   summary: <p style="color:#2098D1;text-align:center;">Here’s a more detailed itinerary for your 11-day adventure tour package.</p><img src='/images/site/20230209_113137 (1).jpg'></img>
   tags: ["11-Days"]
 
 - name: 15-Days
   role: '2-6 Pax'
   timeline: "$1380"
-  url: ""
+  url: "/posts/15days/"
   summary: <p style="color:#2098D1;text-align:center;">Here’s a more detailed itinerary for your 15-day classic tour package.</p><img src='/images/site/25.jpg'></img>
   tags: ["15-Days"]
