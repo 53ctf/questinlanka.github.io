@@ -3,7 +3,7 @@ name: "QuestInLanka"
 nickname: "QuestInLanka"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: ""
-image: "images/author/logo-white.png"
+image: "images/author/author.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "questinlanka@gmail.com"
