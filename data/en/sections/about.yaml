@@ -50,10 +50,10 @@ socialLinks:
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-- type: certification
-  name: Tripadvisor
-  url: "https://www.google.com"
-  badge: "https://www.freepnglogos.com/uploads/tripadvisor-logo-png/file-tripadvisor-logo-svg-wikipedia-3.png"
+# - type: certification
+#   name: Tripadvisor
+#   url: "https://www.google.com"
+#   badge: "https://www.freepnglogos.com/uploads/tripadvisor-logo-png/file-tripadvisor-logo-svg-wikipedia-3.png"
 
 - type: certification
   name: Booking.com
