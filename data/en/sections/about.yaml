@@ -50,15 +50,15 @@ socialLinks:
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-# - type: certification
-#   name: Tripadvisor
-#   url: "https://www.google.com"
-#   badge: "https://www.freepnglogos.com/uploads/tripadvisor-logo-png/file-tripadvisor-logo-svg-wikipedia-3.png"
-
 - type: certification
-  name: Booking.com
+  name: Tripadvisor
   url: "https://www.google.com"
-  badge: "https://cdn.icon-icons.com/icons2/2699/PNG/512/booking_logo_icon_169473.png"
+  badge: "https://www.freepnglogos.com/uploads/tripadvisor-logo-png/file-tripadvisor-logo-svg-wikipedia-3.png"
+
+# - type: certification
+#   name: Booking.com
+#   url: "https://www.google.com"
+#   badge: "https://cdn.icon-icons.com/icons2/2699/PNG/512/booking_logo_icon_169473.png"
 
 - type: certification
   name: Expedia
@@ -71,17 +71,17 @@ badges:
 #   color: blue
 
 # you can also provide color code instead of the color name
-- type: soft-skill-indicator
-  name: Tripadvisor
-  percentage: 90
-  color: "#33E0A1"
+# - type: soft-skill-indicator
+#   name: Tripadvisor
+#   percentage: 90
+#   color: "#33E0A1"
 
-- type: soft-skill-indicator
-  name: Google
-  percentage: 95
-  color: "#01A2F2"
+# - type: soft-skill-indicator
+#   name: Google
+#   percentage: 95
+#   color: "#01A2F2"
 
-- type: soft-skill-indicator
-  name: Expedia
-  percentage: 80
-  color: "#000099"
+# - type: soft-skill-indicator
+#   name: Expedia
+#   percentage: 80
+#   color: "#000099"
