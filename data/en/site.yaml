@@ -22,8 +22,8 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: John's Blog
+  title: QuestInLanka Tours
   type: website
-  description: Portfolio and personal blog of John Doe.
-  image: images/author/john.png
-  url: https://hugo-toha.github.io
+  description: Welcome to Questinlanka, your go-to travel agency for a memorable journey to Sri Lanka. 
+  image: images/author/author.png
+  url: https://questinlanka.com
