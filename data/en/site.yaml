@@ -13,7 +13,7 @@ description: QuestInLanka | The best travel agency in Sri Lanka
 # they will be separated by a divider from the main menus.
 customMenus:
 - name: Docs
-  url: https://toha-guides.netlify.app/posts/
+  # url: https://toha-guides.netlify.app/posts/
   # specify whether to hide the menu item from top navbar or not.
   hideFromNavbar: true
   # specify whether to show the menu item in footer or not.
@@ -25,5 +25,5 @@ openGraph:
   title: QuestInLanka Tours
   type: website
   description: Welcome to Questinlanka, your go-to travel agency for a memorable journey to Sri Lanka. 
-  image: https://i.imgur.com/V0Jeduy.png
+  image: https://i.imgur.com/eLPrTuz.png
   url: https://questinlanka.com
