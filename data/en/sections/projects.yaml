@@ -47,14 +47,14 @@ projects:
 
 - name: 11-Days
   role: '2-6 Pax'
-  timeline: "$1015"
+  timeline: "$1189.50"
   url: "/posts/11days/"
   summary: <p style="color:#2098D1;text-align:center;">Here’s a more detailed itinerary for your 11-day adventure tour package.</p><img src='/images/site/20230209_113137 (1).jpg'></img>
   tags: ["11-Days"]
 
 - name: 15-Days
   role: '2-6 Pax'
-  timeline: "$1380"
+  timeline: "$1382.81"
   url: "/posts/15days/"
   summary: <p style="color:#2098D1;text-align:center;">Here’s a more detailed itinerary for your 15-day classic tour package.</p><img src='/images/site/25.jpg'></img>
   tags: ["15-Days"]
