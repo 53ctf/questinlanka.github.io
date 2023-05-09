@@ -14,6 +14,8 @@ author:
 math: false
 ---
 
+![banner](https://i.imgur.com/V8F4bqV.png)
+
 **Great! Here's a more detailed itinerary for your 11-day adventure tour package that includes lovely dinners, beach functions, whale watching, safari, village tours, and boat riding.**
 
 

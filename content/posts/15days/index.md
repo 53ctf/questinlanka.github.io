@@ -14,6 +14,8 @@ author:
 math: false
 ---
 
+![banner](https://i.imgur.com/vzqN4p1.png)
+
 **Great! Here's a more detailed itinerary for your 15-day classic tour package that includes lovely dinners, beach functions, whale watching, safari, village tours, and boat riding.**
 
 
