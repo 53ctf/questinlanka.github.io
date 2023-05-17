@@ -12,8 +12,8 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: 7-Days
-  filter: "7-Days"
+- name: 8-Days
+  filter: "8-Days"
 - name: 9-Days
   filter: "9-Days"
 - name: 11-Days
@@ -23,12 +23,12 @@ buttons:
 
 # your projects
 projects:
-- name: 7-Days Tour
+- name: 8-Days Tour
   role: '2 Pax'
   timeline: "$605.50"
-  url: "/posts/7days/"
+  url: "/posts/8days/"
   summary: <p style="color:#2098D1;text-align:center;">Here’s a more detailed itinerary for your 7-day luxury tour package.</p><img src='/images/site/24.jpg'></img>
-  tags: ["7-Days"]
+  tags: ["8-Days"]
 
 - name: 9-Days Tour
   role: '2 Pax'
