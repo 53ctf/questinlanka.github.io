@@ -8,13 +8,15 @@ hero: /images/site/24.jpg
 #     name: 7-Days Package
 #     identifier: 9DaysPackage
 #     weight: 1
-author:
-  name: Dinuka Nuwan
+# author:
+#   name: Dinuka Nuwan
 #   image: /images/author/jessica.png
 math: false
 ---
 
 **Here's a more detailed itinerary for your 8-days 7 Nights luxury tour package that includes lovely dinners, beach functions, whale watching, safari, Hiking and boat riding:**
+
+![banner](https://i.imgur.com/2s5eCvn.png)
 
 ##### Day 1: Arrival in Colombo & Way to Kandy
 - Private airport transfer to the hotel

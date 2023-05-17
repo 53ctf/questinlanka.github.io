@@ -8,8 +8,8 @@ hero: /images/site/25.jpg
 #     name: 15-Days Classic Package
 #     identifier: 15DaysPackage
 #     weight: 5
-author:
-  name: Dinuka Nuwan
+# author:
+#   name: Dinuka Nuwan
 #   image: /images/author/jessica.png
 math: false
 ---
@@ -18,7 +18,7 @@ math: false
 
 **Great! Here's a more detailed itinerary for your 15-day classic tour package that includes lovely dinners, beach functions, whale watching, safari, village tours, and boat riding.**
 
-
+![banner](https://i.imgur.com/wbSQzfA.png)
 
 ##### Day 1: Arrival in Colombo
 

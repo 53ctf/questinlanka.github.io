@@ -8,16 +8,15 @@ hero: /images/site/20230209_113137 (1).jpg
 #     name: 11-Days Adventure Package
 #     identifier: 11DaysPackage
 #     weight: 4
-author:
-  name: Dinuka Nuwan
+# author:
+#   name: Dinuka Nuwan
 #   image: /images/site/sigiriya.jpg
 math: false
 ---
 
-![banner](https://i.imgur.com/V8F4bqV.png)
-
 **Great! Here's a more detailed itinerary for your 11-day adventure tour package that includes lovely dinners, beach functions, whale watching, safari, village tours, and boat riding.**
 
+![banner](https://i.imgur.com/OEE9B2f.png)
 
 ##### Day 1: Arrival in Colombo
 

@@ -8,8 +8,8 @@ hero: /images/site/26.jpg
 #     name: 9-Days Package
 #     identifier: 9DaysPackage
 #     weight: 2
-author:
-  name: Dinuka Nuwan
+# author:
+#   name: Dinuka Nuwan
 #   image: /images/author/jessica.png
 math: false
 ---
@@ -18,7 +18,7 @@ math: false
 
 **Great! Creating a 9-day family tour package that includes ancient cities, wildlife activities, safari, whale watching, and beaches sounds like an exciting adventure for travelers visiting Sri Lanka. Here's a possible itinerary for your tour package.**
 
-
+![banner](https://i.imgur.com/imF1Kss.png)
 
 ##### Day 1: Arrival and Colombo City Tour
 
