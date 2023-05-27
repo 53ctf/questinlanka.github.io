@@ -1,5 +1,5 @@
 ---
-title: "15-Days Classic Package"
+title: "15-Days Sri Lanka Highlights"
 date: 2023-04-10
 description: Various Activities that You can Experience in Sri Lanka
 hero: /images/site/25.jpg
@@ -13,8 +13,6 @@ hero: /images/site/25.jpg
 #   image: /images/author/jessica.png
 math: false
 ---
-
-![banner](https://i.imgur.com/vzqN4p1.png)
 
 **Great! Here's a more detailed itinerary for your 15-day classic tour package that includes lovely dinners, beach functions, whale watching, safari, village tours, and boat riding.**
 

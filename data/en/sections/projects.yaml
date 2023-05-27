@@ -23,35 +23,35 @@ buttons:
 
 # your projects
 projects:
-- name: 8-Days Tour
+- name: 8-Days Tea Country To Down South
   role: '2 Pax'
   timeline: "$605.50"
   url: "/posts/8days/"
   summary: <p style="color:#2098D1;text-align:center;">Here’s a more detailed itinerary for your 7-day luxury tour package.</p><img src='/images/site/24.jpg'></img>
   tags: ["8-Days"]
 
-- name: 9-Days Tour
+- name: 9-Days Best of Island
   role: '2 Pax'
   timeline: "$730.80"
   url: "/posts/9days/"
   summary: <p style="color:#2098D1;text-align:center;">Here’s a possible itinerary for your tour package.</p><img src='/images/site/26.jpg'></img>
   tags: ["9-Days"]
 
-- name: 9-Days Honeymoon Tour
+- name: 9-Days Lovers Special
   role: '2 Pax'
   timeline: "$812.50"
   url: "/posts/9days_hm/"
   summary: <p style="color:#2098D1;text-align:center;">Congratulations on your upcoming honeymoon!</p><img src='/images/site/anas-mulia-TB4Fb9trsdI-unsplash.jpg'></img>
   tags: ["9-Days"]
 
-- name: 11-Days
+- name: 11-Days Adventure Package
   role: '2-6 Pax'
   timeline: "$1189.50"
   url: "/posts/11days/"
   summary: <p style="color:#2098D1;text-align:center;">Here’s a more detailed itinerary for your 11-day adventure tour package.</p><img src='/images/site/20230209_113137 (1).jpg'></img>
   tags: ["11-Days"]
 
-- name: 15-Days
+- name: 15-Days Sri Lanka Highlights
   role: '2-6 Pax'
   timeline: "$1382.81"
   url: "/posts/15days/"

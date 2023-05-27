@@ -1,5 +1,5 @@
 ---
-title: "8-Days Package"
+title: "8-Days Tea Country To Down South"
 date: 2023-04-12
 description: Various Activities that You can Experience in Sri Lanka
 hero: /images/site/24.jpg
@@ -16,7 +16,7 @@ math: false
 
 **Here's a more detailed itinerary for your 8-days 7 Nights luxury tour package that includes lovely dinners, beach functions, whale watching, safari, Hiking and boat riding:**
 
-![banner](https://i.imgur.com/2s5eCvn.png)
+![banner](https://i.imgur.com/eOmu6YU.png)
 
 ##### Day 1: Arrival in Colombo & Way to Kandy
 - Private airport transfer to the hotel

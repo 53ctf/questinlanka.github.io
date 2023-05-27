@@ -1,5 +1,5 @@
 ---
-title: "9-Days Package"
+title: "9-Days Best of Island"
 date: 2023-04-11
 description: Various Activities that You can Experience in Sri Lanka
 hero: /images/site/26.jpg
@@ -18,7 +18,7 @@ math: false
 
 **Great! Creating a 9-day family tour package that includes ancient cities, wildlife activities, safari, whale watching, and beaches sounds like an exciting adventure for travelers visiting Sri Lanka. Here's a possible itinerary for your tour package.**
 
-![banner](https://i.imgur.com/imF1Kss.png)
+![banner](https://i.imgur.com/TII8L1d.png)
 
 ##### Day 1: Arrival and Colombo City Tour
 
