@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Gallery
+  name: Things To-Do
   id: achievements
   enable: true
   weight: 3

@@ -20,70 +20,65 @@ math: false
 
 ![banner](https://i.imgur.com/TII8L1d.png)
 
-##### Day 1: Arrival and Colombo City Tour
-
-- Arrive at Bandaranaike International Airport in Colombo
-- Meet and greet with your guide
-- Check-in to your hotel and relax for a while
-- In the afternoon, take a city tour of Colombo, including the Galle Face Green, Independence Square, and the Gangaramaya Temple
 
 
-##### Day 2: Anuradhapura Ancient City Tour
-
-- After breakfast, depart to Anuradhapura, one of the ancient cities of Sri Lanka
-- Visit the sacred Sri Maha Bodhi tree, the Ruwanwelisaya stupa, and other ancient temples and monuments
-- Return to your hotel in the evening
-
-
-##### Day 3: Polonnaruwa Ancient City Tour
-
-- After breakfast, head to Polonnaruwa, another ancient city of Sri Lanka
-- Visit the Royal Palace, Gal Vihara, and other ancient monuments
-- In the evening, return to your hotel and relax
+##### Day 1: Arrival in Colombo
+- Private airport transfer to the hotel
+- Welcome dinner at a local restaurant
+- Nightlife exploration
 
 
-##### Day 4: Minneriya National Park Safari
-
-- After breakfast, depart to Minneriya National Park
-- Go on a jeep safari to see elephants and other wildlife
-- Return to your hotel in the evening
-
-
-##### Day 5: Sigiriya and Dambulla Cave Temple
-
-- After breakfast, visit the Sigiriya rock fortress, one of the most iconic landmarks of Sri Lanka
-- Climb to the top for a breathtaking view of the surrounding area
-- In the afternoon, visit the Dambulla Cave Temple, a UNESCO World Heritage site
-- Return to your hotel in the evening
+##### Day 2: Dambulla and Sigiriya Tour
+- Climb Sigiriya Rock Fortress
+- Visit Dambulla Cave Temple
+- Village tour in Habarana
+- Traditional Sri Lankan dinner with a local family
 
 
-##### Day 6: Whale Watching in Mirissa
-
-- After breakfast, depart to Mirissa, a popular coastal town in Sri Lanka
-- Go on a whale watching tour in the Indian Ocean
-- Return to your hotel in the evening
-
-
-##### Day 7: Galle Fort and Beach
-
-- After breakfast, take a tour of the Galle Fort, another UNESCO World Heritage site
-- In the afternoon, enjoy some leisure time at the Unawatuna Beach
-- Return to your hotel in the evening
+##### Day 3: Kandy City Tour
+- Visit Temple of Tooth Relic
+- Watch a cultural dance performance
+- Kandy city tour
+- Dinner at a rooftop restaurant
 
 
-##### Day 8: Bentota Beach and Water Sports
+##### Day 4: Nuwara Eliya City Tour
+- Visit a tea plantation and factory
+- Visit Horton Plains National Park
+- Gregory Lake boat ride
+- Romantic dinner at the hotel
 
-- After breakfast, head to Bentota, a popular beach destination in Sri Lanka
-- Enjoy various water sports activities, including jet skiing, banana boat rides, and parasailing
-- Return to your hotel in the evening
+
+##### Day 5: Ella City Tour
+- Visit Little Adam's Peak
+- Visit Nine Arches Bridge
+- Scenic train ride through the mountains
+- Dinner at a local restaurant
+
+
+##### Day 6: Yala Safari
+- Safari in Yala National Park
+- Beach party with live music
+
+
+##### Day 7: Mirissa Beach Tour
+- Whale watching tour
+- Beach activities
+- Dinner at a beachfront restaurant
+
+
+##### Day 8: Negombo City Tour
+- Visit the Fish Market
+- Boat tour in Muthurajawela Lagoon
+- Beach party with live music
 
 
 ##### Day 9: Departure
+- Transfer to the airport
 
-- After breakfast, check out from your hotel and depart to the airport for your flight back home
-
-
-That's it! You can modify this itinerary as per your preference and budget. Make sure to include all the necessary arrangements, such as transportation, accommodations, meals, and entrance fees, in your tour package. Good luck!
+Make sure to emphasize the adventure aspect of the tour package and provide options for
+guests to enjoy local cuisine and culture. You can also customize the itinerary based on your
+guests' preferences. Good luck with your tour package!
 
 ######  Includes:
 
