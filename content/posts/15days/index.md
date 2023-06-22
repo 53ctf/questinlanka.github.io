@@ -2,7 +2,7 @@
 title: "15-Days Sri Lanka Highlights"
 date: 2023-04-10
 description: Various Activities that You can Experience in Sri Lanka
-hero: /images/site/25.jpg
+hero: /images/site/15_days.jpg
 # menu:
 #   sidebar:
 #     name: 15-Days Classic Package
@@ -19,6 +19,7 @@ math: false
 ![banner](https://i.imgur.com/wbSQzfA.png)
 
 ##### Day 1: Arrival in Colombo
+<img src='https://i.imgur.com/ka6ReF1.jpg' style="width:600px;height:400px;"></img>
 
 - Private airport transfer to the hotel
 - Welcome dinner at a local restaurant
@@ -26,6 +27,7 @@ math: false
 
 
 ##### Day 2: Negombo City Tour
+<img src='https://i.imgur.com/TTfxnls.jpg' style="width:600px;height:400px;"></img>
 
 - Visit the Fish Market
 - Boat tour in Muthurajawela Lagoon
@@ -33,12 +35,14 @@ math: false
 
 
 ##### Day 3: Anuradhapura Tour
+<img src='https://i.imgur.com/TzDdfg6.jpg' style="width:600px;height:400px;"></img>
 
 - Visit ancient temples and ruins in Anuradhapura
 - Traditional Sri Lankan dinner with a local family
 
 
 ##### Day 4: Polonnaruwa and Sigiriya Tour
+<img src='https://i.imgur.com/marqRWD.jpg' style="width:600px;height:400px;"></img>
 
 - Visit the ancient city of Polonnaruwa
 - Climb Sigiriya Rock Fortress
@@ -47,6 +51,7 @@ math: false
 
 
 ##### Day 5: Kandy City Tour
+<img src='https://i.imgur.com/aqYH7Qd.jpg' style="width:600px;height:400px;"></img>
 
 - Visit Temple of Tooth Relic
 - Watch a cultural dance performance
@@ -55,6 +60,7 @@ math: false
 
 
 ##### Day 6: Nuwara Eliya City Tour
+<img src='https://i.imgur.com/qA273zI.jpg' style="width:600px;height:400px;"></img>
 
 - Visit a tea plantation and factory
 - Visit Horton Plains National Park
@@ -63,6 +69,7 @@ math: false
 
 
 ##### Day 7: Ella City Tour
+<img src='https://i.imgur.com/6JYfCTG.jpg' style="width:600px;height:400px;"></img>
 
 - Visit Little Adam's Peak
 - Visit Nine Arches Bridge
@@ -71,12 +78,14 @@ math: false
 
 
 ##### Day 8: Yala Safari
+<img src='https://i.imgur.com/zW3zP6g.jpg' style="width:600px;height:400px;"></img>
 
 - Safari in Yala National Park
 - Beach party with live music
 
 
 ##### Day 9: Mirissa Beach Tour
+<img src='https://i.imgur.com/cGTqkL0.jpg' style="width:600px;height:400px;"></img>
 
 - Whale watching tour
 - Beach activities
@@ -84,6 +93,7 @@ math: false
 
 
 ##### Day 10: Galle City Tour
+<img src='https://i.imgur.com/tL60dI6.jpg' style="width:600px;height:400px;"></img>
 
 - Visit Galle Fort
 - Visit Jungle Beach
@@ -91,6 +101,7 @@ math: false
 
 
 ##### Day 11-12: Bentota Beach Tour
+<img src='https://i.imgur.com/5JSyE5Y.jpg' style="width:600px;height:400px;"></img>
 
 - Water sports activities
 - Boat ride in Bentota River
@@ -98,6 +109,7 @@ math: false
 
 
 ##### Day 13-14: Colombo City Tour
+<img src='https://i.imgur.com/NsbZcfL.jpg' style="width:600px;height:400px;"></img>
 
 - Visit Gangaramaya Temple
 - Visit Independence Square
@@ -107,11 +119,10 @@ math: false
 
 
 ##### Day 15: Departure
+<img src='https://i.imgur.com/LjoDriI.jpg' style="width:600px;height:400px;"></img>
 
 - Transfer to the airport
 
-
-Make sure to emphasize the classic aspect of the tour package and provide options for guests to enjoy local cuisine and culture. You can also customize the itinerary based on your guests' preferences. Good luck with your tour package!
 
 ######  Includes:
 

@@ -2,19 +2,20 @@
 title: "Activities"
 date: 2020-06-08T08:06:25+06:00
 description: Various Activities that You can Experience in Sri Lanka
-hero: /images/activities/siarhei-palishchuk-hgiby6qxvpc-unsplash.jpg
+hero: /images/activities/12313.jpg
 # menu:
 #   sidebar:
 #     name: Activities
 #     identifier: activities
 #     weight: 6
-author:
-  name: Dinuka Nuwan
+# author:
+#   name: Dinuka Nuwan
 #   image: /images/author/jessica.png
 math: false
 ---
 
 ### Heritage of sri lanka
+<img src='https://i.imgur.com/TzDdfg6.jpg' style="width:300px;height:200px;"> </img><img src='https://i.imgur.com/mlWqJhf.jpg' style="width:300px;height:200px;margin:5px;"></img> <img src='https://i.imgur.com/marqRWD.jpg' style="width:300px;height:200px;">
 
 Sri Lanka is a land of ancient civilization, where the echoes of a rich cultural heritage can still be heard. The island boasts a multitude of cultural and heritage sites that bear testament to the island's history and diversity. From the ancient kingdoms to colonial-era forts, Sri Lanka is home to an array of architectural marvels that will leave visitors in awe.
 
@@ -25,6 +26,7 @@ Sri Lanka is a land of ancient civilization, where the echoes of a rich cultural
 1.  Galle, a coastal city in Sri Lanka, is home to a Dutch Fort that dates back to the 17th century and is a testament to the country's colonial past.
 
 ### Wild Life
+<img src='https://i.imgur.com/gZ7Hmsb.jpg' style="width:300px;height:200px;"> </img><img src='https://i.imgur.com/dmqQeLO.jpg' style="width:300px;height:200px;margin:5px;"></img> <img src='https://i.imgur.com/da2sDZR.jpg' style="width:300px;height:200px;">
 
 Sri Lanka is a wildlife enthusiast's paradise, home to an abundance of rare and exotic species that roam freely in the island's lush forests and national parks. Here are some of the must-visit wildlife destinations in Sri Lanka, along with the activities you can enjoy:
 
@@ -39,6 +41,7 @@ Overall, Sri Lanka's wildlife is a must-see for any nature lover, with its array
 
 
 ### Beaches
+<img src='https://i.imgur.com/PBjcrW2.jpg' style="width:300px;height:200px;"> </img><img src='https://i.imgur.com/tAdHXzq.jpg' style="width:300px;height:200px;margin:5px;"></img> <img src='https://i.imgur.com/pEspGLw.jpg' style="width:300px;height:200px;">
 
 Sri Lanka is blessed with some of the most beautiful and pristine beaches in the world. From the bustling beaches of the west coast to the secluded coves of the south, there's something for everyone. Here are some of the top beaches in Sri Lanka that you don't want to miss:
 
@@ -52,6 +55,7 @@ Sri Lanka is blessed with some of the most beautiful and pristine beaches in the
 These are just a few of the amazing beaches Sri Lanka has to offer. Whether you're looking for adventure or relaxation, there's a beach for everyone. So pack your bags, grab your sunscreen, and get ready for an unforgettable beach vacation in Sri Lanka!
 
 ### Tea Plantations
+<img src='https://i.imgur.com/8SX8CQT.jpg' style="width:300px;height:200px;"> </img><img src='https://i.imgur.com/AiGmwjC.jpg' style="width:300px;height:200px;margin:5px;"></img> <img src='https://i.imgur.com/qA273zI.jpg' style="width:300px;height:200px;">
 
 Sri Lanka is famous for its world-renowned tea, and there's no better way to experience it than by visiting one of the many tea plantations scattered throughout the country. Here are some of the top tea plantations in Sri Lanka that you don't want to miss:
 
@@ -63,6 +67,7 @@ Sri Lanka is famous for its world-renowned tea, and there's no better way to exp
 These are just a few of the many tea plantations in Sri Lanka that offer a unique and unforgettable experience. So, if you're a tea lover, be sure to add these places to your travel itinerary and discover the magic of Sri Lankan tea culture firsthand.
 
 ### Hiking & Trecking
+<img src='https://i.imgur.com/v5H1Nhf.jpg' style="width:300px;height:200px;"> </img><img src='https://i.imgur.com/W8RAbmg.jpg' style="width:300px;height:200px;margin:5px;"></img> <img src='https://i.imgur.com/m97Hx9y.jpg  ' style="width:300px;height:200px;">
 
 Sri Lanka is a hiker's paradise, with its lush green landscapes, misty hills, and stunning natural beauty. From the highlands to the coast, there are plenty of hiking and trekking trails to explore. Here are some of the top hiking and trekking destinations in Sri Lanka that you don't want to miss:
 
@@ -75,6 +80,7 @@ Sri Lanka is a hiker's paradise, with its lush green landscapes, misty hills, an
 These are just a few of the many hiking and trekking destinations in Sri Lanka that offer an unforgettable experience. So pack your bags, grab your hiking boots, and get ready to explore the stunning natural beauty of Sri Lanka on foot!
 
 ### Food & Cuisine
+<img src='https://i.imgur.com/kchy6uV.jpg' style="width:300px;height:200px;"> </img><img src='https://i.imgur.com/Z2odUzP.jpg' style="width:300px;height:200px;margin:5px;"></img> <img src='https://i.imgur.com/X7h4ejQ.jpg' style="width:300px;height:200px;">
 If you're looking to experience the authentic flavors of Sri Lanka's cuisine, then a village tour is a must-try. Sri Lanka's villages offer a glimpse into the traditional way of life and an opportunity to learn about the local food culture. Here are some of the top village tours to explore Sri Lanka's food and cuisine:
 
 1.  Hiriwadunna Village Tour: - The Hiriwadunna Village Tour is a unique experience that takes you through the rural village life of Sri Lanka. Visitors can learn about the traditional way of life, participate in cooking demonstrations, and enjoy a delicious Sri Lankan meal.
@@ -89,6 +95,7 @@ If you're looking to experience the authentic flavors of Sri Lanka's cuisine, th
 These village tours offer a unique opportunity to experience Sri Lanka's food and cuisine, while also providing a glimpse into the traditional way of life. So, be sure to add these tours to your travel itinerary and discover the authentic flavors of Sri Lanka's food culture.
 
 ### Trains
+<img src='https://i.imgur.com/b9zxF0N.jpg' style="width:300px;height:200px;"> </img><img src='https://i.imgur.com/wWexWbr.jpg' style="width:300px;height:200px;margin:5px;"></img> <img src='https://i.imgur.com/m5kdjH2.jpg' style="width:300px;height:200px;">
 
 Sri Lanka is a stunning country that is best explored by train. The trains here take you through some of the most scenic landscapes, making your journey a memorable one. Hop on a train and get ready to be mesmerized by the beautiful green hills, misty mountains, and crystal-clear waterfalls that dot the landscape
 

@@ -2,7 +2,7 @@
 title: "9-Days Lovers Special"
 date: 2022-04-20
 description: Various Activities that You can Experience in Sri Lanka
-hero: /images/site/anas-mulia-TB4Fb9trsdI-unsplash.jpg
+hero: /images/site/9_days_hm.jpg
 # menu:
 #   sidebar:
 #     name: 9-Days Honeymoon Special Package
@@ -19,11 +19,13 @@ math: false
 ![banner](https://i.imgur.com/8PPFEUN.png)
 
 #####   Day 1: Colombo
+<img src='https://i.imgur.com/ka6ReF1.jpg' style="width:600px;height:400px;"></img>
 
 -   Arrival in Colombo Upon arrival at the airport, our representative will greet you and transfer you to your hotel in Colombo. You can relax and enjoy the evening at your leisure.
 
 
 #####   Day 2-3 Dambulla
+<img src='https://i.imgur.com/8z4eF2r.jpg' style="width:600px;height:400px;"></img>
 
 -   Visit the ancient city of Polonnaruwa
 -   Sigiriya rock fortress
@@ -33,6 +35,7 @@ math: false
 
 
 #####   Day 4-5: Kandy
+<img src='https://i.imgur.com/Up5kvP1.jpg' style="width:600px;height:400px;"></img>
 
 -   Tea Country Visit the picturesque city of Kandy
 -   Explore the iconic Temple of the Tooth Relic.
@@ -42,6 +45,7 @@ math: false
 
 
 #####   Day 6: Nuwaraeliya
+<img src='https://i.imgur.com/7XFCWq6.jpg' style="width:600px;height:400px;"></img>
 
 -   Tea plantations
 -   Tea Factory
@@ -50,13 +54,15 @@ math: false
 
 
 #####   Day 7: Ella
+<img src='https://i.imgur.com/PoOxivZ.jpg' style="width:600px;height:400px;"></img>
 
 -   The train journey
 -   Ella sightseeing
 -   Flying Ravana Mega Zip Line
 
 
-#####   Day 8-9: Bentota
+#####   Day 8: Bentota
+<img src='https://i.imgur.com/5JSyE5Y.jpg' style="width:600px;height:400px;"></img>
 
 -   Beach and Spa Retreat Relax and rejuvenate at a luxurious beach resort in Bentota, where you'll enjoy spa treatments and water sports activities. You'll also have time to
 -   Enjoy a romantic candlelit dinner on the beach.
@@ -64,6 +70,9 @@ math: false
 -   Watersports
 -   Boat trips 
 
+##### Day 9: Departure
+<img src='https://i.imgur.com/4EH2WA4.jpg' style="width:600px;height:400px;"></img>
+- Transfer to the airport
 
 Join us on this romantic 9-day honeymoon tour package in Sri Lanka and make unforgettable memories with your partner. 
 
