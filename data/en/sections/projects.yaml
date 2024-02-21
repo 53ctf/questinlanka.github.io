@@ -1,0 +1,67 @@
+# section information
+section:
+  name: Featured Tours
+  id: projects
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: 8-Days
+  filter: "8-Days"
+- name: 9-Days
+  filter: "9-Days"
+- name: 11-Days
+  filter: "11-Days"
+- name: 15-Days
+  filter: "15-Days"
+- name: Day-Tour
+  filter: "Day-Tour"
+# your projects
+projects:
+- name: 8-Days Tea Country To Down South
+  role: '2 Pax'
+  timeline: "$605.50"
+  url: "/posts/8days/"
+  summary: <p style="color:#2098D1;text-align:center;">Here’s a more detailed itinerary for your 8-day luxury tour package.</p><img src='https://i.imgur.com/IKDwrtN.jpg'></img>
+  tags: ["8-Days"]
+
+- name: 9-Days Best of Island
+  role: '2 Pax'
+  timeline: "$540"
+  url: "/posts/9days/"
+  summary: <p style="color:#2098D1;text-align:center;">Here’s a possible itinerary for your tour package.</p><img src='https://i.imgur.com/lT4sCj6.jpg'></img>
+  tags: ["9-Days"]
+
+- name: 9-Days Lovers Special
+  role: '2 Pax'
+  timeline: "$560"
+  url: "/posts/9days_hm/"
+  summary: <p style="color:#2098D1;text-align:center;">Congratulations on your upcoming honeymoon!</p><img src='https://i.imgur.com/qoBfnXi.jpg'></img>
+  tags: ["9-Days"]
+
+- name: 11-Days Adventure Package
+  role: '2-6 Pax'
+  timeline: "$830"
+  url: "/posts/11days/"
+  summary: <p style="color:#2098D1;text-align:center;">Here’s a more detailed itinerary for your 11-day adventure tour package.</p><img src='https://i.imgur.com/0zxG87n.jpg'></img>
+  tags: ["11-Days"]
+
+- name: 15-Days Sri Lanka Highlights
+  role: '2-6 Pax'
+  timeline: "$1120"
+  url: "/posts/15days/"
+  summary: <p style="color:#2098D1;text-align:center;">Here’s a more detailed itinerary for your 15-day classic tour package.</p><img src='https://i.imgur.com/4PVLYGs.jpg'></img>
+  tags: ["15-Days"]
+
+- name: Ella Day Tour
+  role: '2-6 Pax'
+  timeline: "$50"
+  url: "/posts/day_tour/"
+  summary: <p style="color:#2098D1;text-align:center;">Here’s a more detailed itinerary for your Ella day tour package.</p><img src='https://i.imgur.com/oxeqYRo.png'></img>
+  tags: ["Day-Tour"]

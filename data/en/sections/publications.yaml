@@ -1,0 +1,78 @@
+# section information
+section:
+  name: INQUIRE US
+  id: publications
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+# buttons:
+# - name: All
+#   filter: "all"
+# - name: "Machine Learning"
+#   filter: "machinelearning"
+# - name: "Image Processing"
+#   filter: "image-processing"
+# - name: Security
+#   filter: "security"
+
+# your publications
+publications:
+- title: Welcome to Questinlanka Tours, your premier destination for sustainable and unforgettable eco-tourism experiences in the breathtaking landscapes of Sri Lanka!
+  # publishedIn:
+    # name: 2020 IEEE Region Symposium (TENSYMP)
+    # date: 7 June 2020
+    # url: https://example.com
+  # authors:
+  # - name: Dr. Madman
+  #   url: https://example.com
+  # - name: Dr. Lessmad
+  #   url: https://example.com
+  # - name: Dr. Moremad
+  #   url: https://example.com
+  # - name: Dr. Goodman
+  #   url: https://example.com
+  paper:
+    summary: 
+    url: https://rateit.forms.app/nuwanjay/tour-booking-form
+  # categories: ["machinelearning","image-processing"]
+  # tags: ["Machine Learning", "Autonomous Driving", "Computer Vision"]
+
+# - title: Esala Perahera
+#   paper:
+#     summary: "Welcome to QuestinLanka Tours, your gateway to the mesmerizing world of Sri Lanka&#39;s
+#     cultural extravaganza, the Kandy Esala Perahera! Immerse yourself in the vibrant tapestry of
+#     traditions, music, and grandeur that unfolds during this magnificent festival.
+#     The Kandy Esala Perahera, held annually in the historic city of Kandy, is a spectacle like no
+#     other. As the rhythmic beats of traditional drums reverberate through the air, the city comes
+#     alive with a vibrant display of pageantry and devotion. This centuries-old religious
+#     procession celebrates the sacred tooth relic of Lord Buddha, a cherished symbol of
+#     spirituality for Buddhists around the world.
+#     During the Perahera, the streets of Kandy transform into a captivating arena where elegance
+#     and reverence blend seamlessly. Adorned elephants, beautifully decorated with colorful
+#     costumes and regal ornaments, take center stage. Bedecked in vibrant silk and accompanied
+#     by traditional dancers, drummers, and fire performers, they march gracefully, exuding an aura
+#     of majesty.  
+
+
+#     The procession features a multitude of cultural performances, each showcasing the rich
+#     heritage of Sri Lanka. Acrobats, stilt walkers, fire eaters, and whip crackers add an element of
+#     excitement to the festivities, while the captivating sound of traditional music fills the air.
+#     Spectators are captivated by the graceful movements of the Kandyan dancers, their swirling
+#     costumes, and rhythmic footwork mesmerizing all who witness their artistry.
+#     The culmination of the Kandy Esala Perahera is a truly awe-inspiring moment. The sacred
+#     tooth relic is paraded through the streets, carried atop a lavishly decorated tusker, surrounded
+#     by a sea of devotees and pilgrims. As the procession makes its way along the illuminated
+#     route, the atmosphere is charged with spirituality and a sense of communal harmony.
+#     At QuestinLanka Tours, we invite you to witness this extraordinary cultural extravaganza
+#     firsthand. Let us guide you on a journey through the streets of Kandy, where you will be
+#     immersed in the magic of the Kandy Esala Perahera. Experience the grandeur, the mystique,
+#     and the deep-rooted traditions that make this festival an unforgettable celebration of Sri
+#     Lanka&#39;s cultural heritage.  
+
+
+#     Come, join us, and be a part of the Kandy Esala Perahera, an enchanting spectacle that will
+#     leave you with cherished memories and a profound appreciation for the beauty of Sri Lanka."

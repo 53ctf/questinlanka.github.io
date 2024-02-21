@@ -1,0 +1,91 @@
+# section information
+section:
+  name: About Us
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+# designation: Software Engineer
+# your company information
+# company:
+  # name: Example Co.
+  # url: "https://www.example.com"
+
+# your resume. this file path should be relative to you "static" directory
+# Dreprecated. Use resourceLinks instead.
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'Welcome to Questinlanka, your go-to travel agency for a memorable journey to Sri Lanka. We offer personalized services to cater to your every need, with a friendly and knowledgeable team of experts to guide you every step of the way. Contact us today to start planning your dream trip.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Whatsapp
+  icon: "fab fa-whatsapp"
+  url: "https://wa.me/+770822069"
+
+- name: Email
+  icon: "fas fa-envelope"
+  url: "questinlanka@gmail.com"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/profile.php?id=100092622156489"
+
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/questinlanka_tours/"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/Questinlanka"
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+# resourceLinks:
+# - title: "My Resume"
+#   url: "files/resume.pdf"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+# badges:
+# - type: certification
+#   name: Tripadvisor
+#   url: "https://www.google.com"
+#   badge: "https://www.freepnglogos.com/uploads/tripadvisor-logo-png/file-tripadvisor-logo-svg-wikipedia-3.png"
+
+# - type: certification
+#   name: Booking.com
+#   url: "https://www.google.com"
+#   badge: "https://cdn.icon-icons.com/icons2/2699/PNG/512/booking_logo_icon_169473.png"
+
+# - type: certification
+#   name: Expedia
+#   url: "https://www.google.com"
+#   badge: "https://seeklogo.com/images/E/expedia-logo-CE08C7D43E-seeklogo.com.png"
+
+# - type: soft-skill-indicator
+#   name: Leadership
+#   percentage: 85
+#   color: blue
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Tripadvisor
+#   percentage: 90
+#   color: "#33E0A1"
+
+# - type: soft-skill-indicator
+#   name: Google
+#   percentage: 95
+#   color: "#01A2F2"
+
+# - type: soft-skill-indicator
+#   name: Expedia
+#   percentage: 80
+#   color: "#000099"

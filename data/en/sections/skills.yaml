@@ -1,0 +1,52 @@
+# section information
+section:
+  name: Activities
+  id: skills
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Historycle Sites
+  # logo: /images/sections/skills/kubernetes.png
+  summary: "Sri Lanka is a land of rich history and culture, with a plethora of ancient sites that reflect the country’s rich past. From ancient Buddhist temples to stunning fortresses, Sri Lanka has a lot to offer for history enthusiasts."
+  url: "/posts/activities/#historycle-sites"
+
+- name: Wildlife
+  # logo: /images/sections/skills/kubernetes.png
+  summary: "Sri Lanka is a wildlife lover’s paradise, with over 26 national parks and reserves spread across the country. The island nation is home to an incredible array of animals, including elephants, leopards, sloth bears, and hundreds of species of birds."
+  url: "/posts/activities/#wildlife"
+
+- name: Beaches
+  # logo: /images/sections/skills/kubernetes.png
+  summary: "Sri Lanka is home to some of the most stunning beaches in the world, with crystal-clear waters, pristine white sands, and breathtaking views. Whether you’re looking to soak up the sun, indulge in water sports, or simply relax and unwind, Sri Lanka has a beach that’s perfect for you."
+  url: "/posts/activities/#beaches"
+
+- name: Tea Plantations
+  # logo: /images/sections/skills/kubernetes.png
+  summary: "Sri Lanka is famous for its tea plantations, which produce some of the finest teas in the world. The island’s tea industry dates back to the 19th century, and today, Sri Lanka is one of the world’s largest exporters of tea."
+  url: "/posts/activities/#tea-plantations"
+
+- name: Hiking & Trecking
+  # logo: /images/sections/skills/kubernetes.png
+  summary: "Adam’s Peak: Adam’s Peak is a sacred mountain located in the central highlands of Sri Lanka, and is a popular destination for pilgrims and hikers alike. The mountain is known for its stunning views and the famous “Sri Pada” or “Sacred Footprint” at the peak."
+  url: "/posts/activities/#hiking--trecking"
+
+- name: Cultural Activities
+  # logo: /images/sections/skills/kubernetes.png
+  summary: "Sri Lanka has a rich cultural heritage that spans thousands of years, and there are plenty of opportunities to explore and experience the country’s cultural traditions and activities."
+  url: "/posts/activities/#cultural-activities"
+
+- name: Food & Cuisine
+  # logo: /images/sections/skills/kubernetes.png
+  summary: "Sri Lankan cuisine is a fusion of different flavors and culinary traditions, influenced by the country’s history and diverse population."
+  url: "/posts/activities/#food--cuisine"
+
+- name: Trains
+  # logo: /images/sections/skills/kubernetes.png
+  summary: "Sri Lanka is renowned for its scenic train journeys, which take you through some of the most breathtaking landscapes in the country. If you want to experience the beauty of Sri Lanka in a unique and unforgettable way."
+  url: "/posts/activities/#trains"
